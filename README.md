@@ -1,3 +1,5 @@
+![picture](Picture.png)
+
 # EFI Mac OS Sonoma для MSI GF75 Thin 10UC-048XRU 17.3" Gaming Laptop, i5-10300H, 16GB, 128GB SSD
 
 MSI GF75 Thin 10UC-048XRU 17.3 OpenCore 1.0 Sonoma 14.5
